@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Techview Solutions
+image: /img/home.jpg
+heading: Why us?
+subheading: Solution for your needs
 mainpitch:
-  title: Why Kaldi
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Techview Solutions Bangalore is led by experienced leadership with more than 25 years of experience in the field of Power Electronics, Automation, Solar, CNC Machine, PLC Systems and Data Center. Techview Solutions is Authorised Partner of POLYCAB, VERTIV (Emerson) and Power-One.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Our Focus is to provide energy efficient, durable and serviceable products that
+  will produce best quality outputs.
+  We work with our clients and create powerful, transformative brand experiences. 
+  We do all of this because we love to work ‘with’ you rather than ‘for’ you.
 intro:
   blurbs:
     - image: /img/coffee.png
