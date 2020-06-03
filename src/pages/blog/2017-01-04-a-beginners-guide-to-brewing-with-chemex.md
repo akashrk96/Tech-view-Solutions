@@ -3,10 +3,10 @@ templateKey: blog-post
 title: Vertiv (Emerson)
 date: 2017-01-04T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/logo.png
+featuredimage: /img/delta1.png
 description: Vertiv offers critical infrastructure technologies and rapidly-deployable customized solutions to meet specific business requirements and needs.
 ---
-![](/img/logo.png)
+![](/img/delta2.png)
 
 <!-- The product and services from vertiv are:
 
